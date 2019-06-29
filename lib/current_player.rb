@@ -1,8 +1,10 @@
 def turn_count(board)
-  if position?board[]==""
+  
+  board.each do |count|if position?board[]==""
     count+=1 
     current_player(count)
   end
+end
 end
 
 def current_player(count)
