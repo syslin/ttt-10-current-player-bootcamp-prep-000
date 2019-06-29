@@ -1,4 +1,4 @@
-def turn_count
+def turn_count(board)
   if position?board[]==""
     count+=1 
     current_player(count)
